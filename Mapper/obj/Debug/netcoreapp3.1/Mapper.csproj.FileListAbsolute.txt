@@ -1,0 +1,5 @@
+D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\Mapper.deps.json
+D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\Mapper.dll
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.csprojAssemblyReference.cache
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfoInputs.cache
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfo.cs

@@ -1,0 +1,5 @@
+D:\Freelancing\softosol\SoftoSol\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.deps.json
+D:\Freelancing\softosol\SoftoSol\UnitOfWork\bin\Debug\netcoreapp3.1\UnitOfWork.dll
+D:\Freelancing\softosol\SoftoSol\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.AssemblyInfoInputs.cache
+D:\Freelancing\softosol\SoftoSol\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.AssemblyInfo.cs
+D:\Freelancing\softosol\SoftoSol\UnitOfWork\obj\Debug\netcoreapp3.1\UnitOfWork.csprojAssemblyReference.cache

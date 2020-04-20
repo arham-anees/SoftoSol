@@ -1,0 +1,5 @@
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\PersistenceLayer.deps.json
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\PersistenceLayer.dll
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.csprojAssemblyReference.cache
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.AssemblyInfoInputs.cache
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.AssemblyInfo.cs

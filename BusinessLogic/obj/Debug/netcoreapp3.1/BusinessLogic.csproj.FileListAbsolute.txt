@@ -1,0 +1,5 @@
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.deps.json
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
