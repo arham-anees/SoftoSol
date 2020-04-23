@@ -1,0 +1,30 @@
+.side-bar {
+  height: 100vh;
+  border-right: 1px solid #c1d4c6;
+  .links-section {
+    height: 50vh;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 700;
+    * {
+      padding: 10px 0;
+    }
+    a {
+      color: inherit;
+      line-height: 30px;
+    }
+    .active {
+      color: #1eafed;
+      text-decoration: underline;
+    }
+  }
+  .title-section {
+    height: 20vh;
+    font-size: 62px;
+    font-weight: 500;
+    font-family: "Abril Fatface", cursive;
+  }
+  .footer-section {
+    height: 30vh;
+  }
+}

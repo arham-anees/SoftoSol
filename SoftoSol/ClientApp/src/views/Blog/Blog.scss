@@ -1,0 +1,25 @@
+.blog {
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  justify-content: left;
+  a {
+    color: inherit;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  img {
+    width: 180px;
+    height: 180px;
+  }
+  .description {
+    width: 60%;
+    margin-left: 5px;
+    margin-top: 15px;
+  }
+  .read-more {
+    text-align: bottom;
+  }
+}

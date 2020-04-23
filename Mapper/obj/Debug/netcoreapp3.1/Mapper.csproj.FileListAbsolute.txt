@@ -3,3 +3,13 @@ D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\Mapper.dll
 D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.csprojAssemblyReference.cache
 D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfoInputs.cache
 D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.AssemblyInfo.cs
+D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\Mapper.runtimeconfig.json
+D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\Mapper.runtimeconfig.dev.json
+D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\Mapper.pdb
+D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\Freelancing\softosol\SoftoSol\Mapper\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.csproj.CoreCompileInputs.cache
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.csproj.CopyComplete
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.dll
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.pdb
+D:\Freelancing\softosol\SoftoSol\Mapper\obj\Debug\netcoreapp3.1\Mapper.genruntimeconfig.cache

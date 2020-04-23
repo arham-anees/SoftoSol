@@ -1280,6 +1280,51 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLogic.dll": {}
+        }
+      },
+      "Mapper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BusinessLogic": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/Mapper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mapper.dll": {}
+        }
+      },
+      "PersistenceLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BusinessLogic": "1.0.0",
+          "Mapper": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.3",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.3"
+        },
+        "compile": {
+          "bin/placeholder/PersistenceLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersistenceLayer.dll": {}
+        }
       }
     }
   },
@@ -4941,13 +4986,29 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../BusinessLogic/BusinessLogic.csproj",
+      "msbuildProject": "../BusinessLogic/BusinessLogic.csproj"
+    },
+    "Mapper/1.0.0": {
+      "type": "project",
+      "path": "../Mapper/Mapper.csproj",
+      "msbuildProject": "../Mapper/Mapper.csproj"
+    },
+    "PersistenceLayer/1.0.0": {
+      "type": "project",
+      "path": "../PersistenceLayer/PersistenceLayer.csproj",
+      "msbuildProject": "../PersistenceLayer/PersistenceLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.EntityFrameworkCore >= 3.1.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.3",
-      "Microsoft.EntityFrameworkCore.Tools >= 3.1.3"
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.3",
+      "PersistenceLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4979,7 +5040,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Freelancing\\softosol\\SoftoSol\\PersistenceLayer\\PersistenceLayer.csproj": {
+              "projectPath": "D:\\Freelancing\\softosol\\SoftoSol\\PersistenceLayer\\PersistenceLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

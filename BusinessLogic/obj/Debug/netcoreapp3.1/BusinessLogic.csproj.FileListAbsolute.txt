@@ -3,3 +3,10 @@ D:\Freelancing\softosol\SoftoSol\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessL
 D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csprojAssemblyReference.cache
 D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfoInputs.cache
 D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.AssemblyInfo.cs
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.json
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.runtimeconfig.dev.json
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\Freelancing\softosol\SoftoSol\BusinessLogic\obj\Debug\netcoreapp3.1\BusinessLogic.genruntimeconfig.cache

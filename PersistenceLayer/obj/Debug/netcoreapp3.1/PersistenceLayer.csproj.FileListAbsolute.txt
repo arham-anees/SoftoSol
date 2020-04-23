@@ -3,3 +3,15 @@ D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\Persis
 D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.csprojAssemblyReference.cache
 D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.AssemblyInfoInputs.cache
 D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.AssemblyInfo.cs
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\PersistenceLayer.runtimeconfig.json
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\PersistenceLayer.runtimeconfig.dev.json
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\PersistenceLayer.pdb
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\Mapper.dll
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\bin\Debug\netcoreapp3.1\Mapper.pdb
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.csproj.CoreCompileInputs.cache
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.csproj.CopyComplete
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.dll
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.pdb
+D:\Freelancing\softosol\SoftoSol\PersistenceLayer\obj\Debug\netcoreapp3.1\PersistenceLayer.genruntimeconfig.cache
